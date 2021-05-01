@@ -1,0 +1,24 @@
+{
+    "id": "A5A1CE64",
+    "path": "~/Documents/shiny_tutorial/file_upload_download/app.R",
+    "project_path": "file_upload_download/app.R",
+    "type": "r_source",
+    "hash": "3777821583",
+    "contents": "",
+    "dirty": false,
+    "created": 1619880167118.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "20,30",
+        "scrollLine": "8"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1619900208,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1619900208128,
+    "read_only": false,
+    "read_only_alternatives": []
+}
